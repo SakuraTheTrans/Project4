@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jackson-annotations-2.15.0-rc3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/exercise14/Jars/New folder/jackson-annotations-2.15.0-rc3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/exercise14/Jars/New folder/jackson-core-2.15.0-rc3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/exercise14/Jars/New folder/jackson-databind-2.15.0-rc3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/exercise14/Jars/New folder/json-simple-4.0.1.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
